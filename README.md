@@ -1,0 +1,2 @@
+# EduuGen
+Edu Account Generator
